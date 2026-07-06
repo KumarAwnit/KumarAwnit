@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Awnit kumar
-**A passionate Full stack developer|| java Developer|| **
+** Aspiring Software Engineer || Data Science Enthusiast || Full Stack Web Developer || Python || DSA || Machine Learning **
 
 Email Me 👉 ✉️ **awnitkumarjkiapt14@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
