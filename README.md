@@ -85,14 +85,14 @@ Email Me 👉 ✉️ **awnitkumarjkiapt14@gmail.com** For Collaboration/Project 
 </div>
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KumarAwnit&show_icons=true&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KumarAwnit&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumarAwnit&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KumarAwnit&layout=compact&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=KumarAwnit&theme=github-dark)
-![](https://github-readme-stats.vercel.app/api?username=Awnit783&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Awnit783&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Awnit783&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KumarAwnit&theme=github-dark&hide_border=true"/>
+</p>
 
 
 ### ✍️ Random Dev Quote
