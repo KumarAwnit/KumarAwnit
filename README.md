@@ -12,15 +12,6 @@ Email Me 👉 ✉️ **awnitkumarjkiapt14@gmail.com** For Collaboration/Project 
 - 😄 **Pronouns:** Awnit kumar
 - ⚡ **Fun fact:** I Love working
 ## 💻 Tech Stack
-
-### Languages
-- Python
-- Java
-- JavaScript
-- SQL
-- HTML
-- CSS
-
 ### Web Development
 - React.js
 - Node.js
@@ -31,11 +22,6 @@ Email Me 👉 ✉️ **awnitkumarjkiapt14@gmail.com** For Collaboration/Project 
 - Pandas
 - NumPy
 - Machine Learning
-
-### Tools
-- Git
-- GitHub
-- VS Code
 ## 📌 Featured Projects
 
 - 🦴 Bone Age Prediction
@@ -76,6 +62,7 @@ Email Me 👉 ✉️ **awnitkumarjkiapt14@gmail.com** For Collaboration/Project 
 </div>
 
 # 💻 Tech Stack:
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
