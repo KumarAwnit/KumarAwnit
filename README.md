@@ -11,7 +11,55 @@ Email Me 👉 ✉️ **awnitkumarjkiapt14@gmail.com** For Collaboration/Project 
 - 📫 **How to reach me:** Enter your email here
 - 😄 **Pronouns:** Awnit kumar
 - ⚡ **Fun fact:** I Love working
+## 💻 Tech Stack
 
+### Languages
+- Python
+- Java
+- JavaScript
+- SQL
+- HTML
+- CSS
+
+### Web Development
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+
+### Data Science & AI
+- Pandas
+- NumPy
+- Machine Learning
+
+### Tools
+- Git
+- GitHub
+- VS Code
+## 📌 Featured Projects
+
+- 🦴 Bone Age Prediction
+- ▶️ YouTube Clone
+- 🛒 Amazon Clone
+- 🎵 Musical Time Machine
+- 🧠 Particle Swarm Optimization
+- 💻 LeetCode Solutions
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced DSA
+- System Design
+- Deep Learning
+- Cloud Computing
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn
+- GitHub
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Awnit783&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
