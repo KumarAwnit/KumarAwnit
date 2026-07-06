@@ -70,8 +70,12 @@ Email Me 👉 ✉️ **awnitkumarjkiapt14@gmail.com** For Collaboration/Project 
 - LinkedIn
 - GitHub
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Awnit783&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KumarAwnit&theme=github_dark&no-frame=true&row=1&column=2" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KumarAwnit&theme=github_dark&no-frame=true&row=1&column=2&title=Stars,Commits" />
+</p
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/awnitkumar063) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sharmaawnit.kumarkumar.1/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/offcial_awnit_07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/awnit-kumar-038075253) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/awnitkumar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/AwnitKumar13?s=09) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UC8aP_pgLUWVbcLSYcgL2rKQ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:awnitkumarjkiapt14@gmail.com) 
